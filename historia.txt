@@ -16,3 +16,20 @@ si deseo volver al final se data_usage
 
 git branch cabecera crea rama 
 git checkout cabecera se pasa a la rama para trabajar sobre la rama
+git merge cabecera
+ git remote add origin https://github.com/oajo2019/Hyperblog.git
+
+git remote set-url origin git@github.com:oajo2019/Hyperblog.git
+git remote -vgit pull origin master
+git push origin masterter --allow-unrelated-histories
+
+
+*** tags *** tags
+alias arbolito="git log --all --graph --decorate --oneline"
+
+se crea tag en un momento del desarrollador
+git tag -a v0.1 -m "resultado de las clases de curso" ce442bd
+para ver el tags 
+git show-ref --tags
+
+
