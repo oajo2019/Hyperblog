@@ -1,0 +1,5 @@
+Hisotria de Oscar Jurado
+Tengo 31 años naci en Colombia 
+
+comandos de
+git rm --cached hisoria.txt si se equivocha lo quiere sacar de stage y pasarlo al workin store_mall_directory
