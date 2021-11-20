@@ -1,6 +1,10 @@
 Hisotria de Oscar Jurado
 Tengo 31 años naci en Ipiales Colombia 
 soy desarrollador de software
+agrego de nuevo la estatura par aprobar el reset --soft
 
 comandos de
-git rm --cached hisoria.txt si se equivocha lo quiere sacar de stage y pasarlo al workin store_mall_directory
+* git rm --cached hisoria.txt si se equivocha lo quiere sacar de stage y pasarlo al workin store_mall_directory
+* git reset efc7864e1fdea086b92aef5fc82e093b831f72a3 --hard ** Borra al estado anterior elimina el registro del commit y lo del stagin **
+* git reset efc7864e1fdea086b92aef5fc82e093b831f72a3 --soft
+regresa a un commit anterior pero sin borrar los cambios que estaban en el stagin area.
